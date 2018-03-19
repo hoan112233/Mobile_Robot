@@ -1,0 +1,900 @@
+Mon Dec 05 14:56:12 UserDiv from Layout.INI for AutoECO: 60
+Mon Dec 05 14:56:12 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\STK200_300-1.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD_FOOTPRINT_270311.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\MACH NAP-2.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\USB STK500-3.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\ENC28J60-10.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\DO AN MH3\ATTACHMENTS_2011_10_19\THACH LAYOUT.LLB
+Mon Dec 05 14:56:12 Loaded file F:\MCR\SENSOR BOARD\HOA.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\DO AN MH3\MACH NGUYEN LI ORCAD\THUVIEN-1.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\THU VIEN CHAN\THU VIEN CHAN NEW(THAY ANH) .LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\THU VIEN CHAN\NUT NHAN.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\LAYOUT.CAOVANHUONG.LLB
+Mon Dec 05 14:56:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Mon Dec 05 14:56:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Mon Dec 05 14:56:13 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Mon Dec 05 14:56:13 Loaded file F:\MCR\SENSOR BOARD\HOA.LLB
+Mon Dec 05 14:56:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\STK200_300-1.LLB
+Mon Dec 05 14:56:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\STK200_300-1.LLB
+Mon Dec 05 14:56:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:56:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD_FOOTPRINT_270311.LLB
+Mon Dec 05 14:56:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\STK200_300-1.LLB
+Mon Dec 05 14:56:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\ENC28J60-10.LLB
+Mon Dec 05 14:56:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\THU VIEN CHAN\THU VIEN CHAN NEW(THAY ANH) .LLB
+Mon Dec 05 14:56:17 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:56:17 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:56:22 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:56:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:56:25 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:56:26 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:56:27 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:56:27 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:56:27 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:56:27 Loaded file F:\DIEN TU\MR HAI\DO AN MH3\ATTACHMENTS_2011_10_19\THACH LAYOUT.LLB
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:27 Unknown net group range
+Mon Dec 05 14:56:28 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Mon Dec 05 14:57:28 Saved as file ~undo.max
+Mon Dec 05 14:57:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:31 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:32 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD.LLB
+Mon Dec 05 14:57:33 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:57:36 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:37 Saved as file ~undo.max
+Mon Dec 05 14:57:41 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:41 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:41 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:41 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:41 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD_FOOTPRINT_270311.LLB
+Mon Dec 05 14:57:44 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:45 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:46 Saved as file ~undo.max
+Mon Dec 05 14:57:48 Saved as file ~undo.max
+Mon Dec 05 14:57:52 Saved as file ~undo.max
+Mon Dec 05 14:57:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:57:54 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD.LLB
+Mon Dec 05 14:57:55 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\LAYOUT.CAOVANHUONG.LLB
+Mon Dec 05 14:57:56 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:57:58 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:01 Saved as file ~undo.max
+Mon Dec 05 14:58:03 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:03 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:03 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:03 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:03 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD.LLB
+Mon Dec 05 14:58:05 Loaded file F:\MCR\SENSOR BOARD\HOA.LLB
+Mon Dec 05 14:58:06 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Mon Dec 05 14:58:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:11 Saved as file ~undo.max
+Mon Dec 05 14:58:13 Saved as file ~undo.max
+Mon Dec 05 14:58:14 Saved as file ~undo.max
+Mon Dec 05 14:58:16 Saved as file ~undo.max
+Mon Dec 05 14:58:17 Saved as file ~undo.max
+Mon Dec 05 14:58:18 Saved as file ~undo.max
+Mon Dec 05 14:58:19 Saved as file ~undo.max
+Mon Dec 05 14:58:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:24 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:24 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD_FOOTPRINT_270311.LLB
+Mon Dec 05 14:58:27 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 05 14:58:28 Saved as file ~undo.max
+Mon Dec 05 14:58:29 Saved as file ~undo.max
+Mon Dec 05 14:58:50 Saved as file ~undo.max
+Mon Dec 05 14:59:06 Saved as file ~undo.max
+Mon Dec 05 14:59:06 Saved as file ~undo.max
+Mon Dec 05 14:59:14 Saved as file ~undo.max
+Mon Dec 05 14:59:17 Saved as file ~undo.max
+Mon Dec 05 14:59:18 Saved as file ~undo.max
+Mon Dec 05 14:59:19 Saved as file ~undo.max
+Mon Dec 05 14:59:30 Saved as file ~undo.max
+Mon Dec 05 14:59:34 Saved as file ~undo.max
+Mon Dec 05 14:59:35 Saved as file ~undo.max
+Mon Dec 05 14:59:39 Saved as file ~undo.max
+Mon Dec 05 14:59:44 Saved as file ~undo.max
+Mon Dec 05 14:59:48 Saved as file ~undo.max
+Mon Dec 05 14:59:52 Saved as file ~undo.max
+Mon Dec 05 14:59:56 Saved as file ~undo.max
+Mon Dec 05 14:59:58 Saved as file ~undo.max
+Mon Dec 05 15:00:01 Saved as file ~undo.max
+Mon Dec 05 15:00:03 Saved as file ~undo.max
+Mon Dec 05 15:00:06 Saved as file ~undo.max
+Mon Dec 05 15:00:08 Saved as file ~undo.max
+Mon Dec 05 15:00:10 Saved as file ~undo.max
+Mon Dec 05 15:00:13 Saved as file ~undo.max
+Mon Dec 05 15:00:16 Saved as file ~undo.max
+Mon Dec 05 15:00:18 Saved as file ~undo.max
+Mon Dec 05 15:00:19 Saved as file ~undo.max
+Mon Dec 05 15:00:24 Saved as file ~undo.max
+Mon Dec 05 15:00:25 Saved as file ~undo.max
+Mon Dec 05 15:00:26 Saved as file ~undo.max
+Mon Dec 05 15:00:28 Saved as file ~undo.max
+Mon Dec 05 15:00:30 Saved as file ~undo.max
+Mon Dec 05 15:00:31 Saved as file ~undo.max
+Mon Dec 05 15:00:33 Saved as file ~undo.max
+Mon Dec 05 15:00:34 Saved as file ~undo.max
+Mon Dec 05 15:00:37 Saved as file ~undo.max
+Mon Dec 05 15:00:41 Saved as file ~undo.max
+Mon Dec 05 15:00:43 Saved as file ~undo.max
+Mon Dec 05 15:00:44 Saved as file ~undo.max
+Mon Dec 05 15:00:48 Saved as file ~undo.max
+Mon Dec 05 15:00:49 Saved as file ~undo.max
+Mon Dec 05 15:00:57 Saved as file ~undo.max
+Mon Dec 05 15:01:00 Saved as file ~undo.max
+Mon Dec 05 15:01:02 Saved as file ~undo.max
+Mon Dec 05 15:01:04 Saved as file ~undo.max
+Mon Dec 05 15:01:05 Saved as file ~undo.max
+Mon Dec 05 15:01:08 Saved as file ~undo.max
+Mon Dec 05 15:01:11 Saved as file ~undo.max
+Mon Dec 05 15:01:17 Saved as file ~undo.max
+Mon Dec 05 15:01:23 Saved as file ~undo.max
+Mon Dec 05 15:01:24 Saved as file ~undo.max
+Mon Dec 05 15:01:25 Saved as file ~undo.max
+Mon Dec 05 15:01:27 Saved as file ~undo.max
+Mon Dec 05 15:01:32 Saved as file ~undo.max
+Mon Dec 05 15:01:39 Saved as file ~undo.max
+Mon Dec 05 15:01:46 Saved as file ~undo.max
+Mon Dec 05 15:01:50 Saved as file ~undo.max
+Mon Dec 05 15:01:54 Saved as file ~undo.max
+Mon Dec 05 15:02:03 Saved as file ~undo.max
+Mon Dec 05 15:02:04 Saved as file ~undo.max
+Mon Dec 05 15:02:08 Saved as file ~undo.max
+Mon Dec 05 15:02:12 Saved as file ~undo.max
+Mon Dec 05 15:02:16 Saved as file ~undo.max
+Mon Dec 05 15:02:18 Saved as file ~undo.max
+Mon Dec 05 15:02:25 Saved as file ~undo.max
+Mon Dec 05 15:02:31 Saved as file ~undo.max
+Mon Dec 05 15:02:34 Saved as file ~undo.max
+Mon Dec 05 15:02:38 Saved as file ~undo.max
+Mon Dec 05 15:02:40 Saved as file ~undo.max
+Mon Dec 05 15:02:43 Saved as file ~undo.max
+Mon Dec 05 15:02:46 Saved as file ~undo.max
+Mon Dec 05 15:02:49 Saved as file ~undo.max
+Mon Dec 05 15:02:50 Saved as file ~undo.max
+Mon Dec 05 15:02:54 Saved as file ~undo.max
+Mon Dec 05 15:02:59 Saved as file ~undo.max
+Mon Dec 05 15:03:02 Saved as file ~undo.max
+Mon Dec 05 15:03:08 Saved as file ~undo.max
+Mon Dec 05 15:03:10 Saved as file ~undo.max
+Mon Dec 05 15:03:27 Saved as file ~undo.max
+Mon Dec 05 15:03:30 Saved as file ~undo.max
+Mon Dec 05 15:03:34 Saved as file ~undo.max
+Mon Dec 05 15:03:37 Saved as file ~undo.max
+Mon Dec 05 15:03:39 Saved as file ~undo.max
+Mon Dec 05 15:03:42 Saved as file ~undo.max
+Mon Dec 05 15:03:44 Saved as file ~undo.max
+Mon Dec 05 15:03:47 Saved as file ~undo.max
+Mon Dec 05 15:03:49 Saved as file ~undo.max
+Mon Dec 05 15:03:52 Saved as file ~undo.max
+Mon Dec 05 15:03:55 Saved as file ~undo.max
+Mon Dec 05 15:03:57 Saved as file ~undo.max
+Mon Dec 05 15:04:00 Saved as file ~undo.max
+Mon Dec 05 15:04:01 Saved as file ~undo.max
+Mon Dec 05 15:04:04 Saved as file ~undo.max
+Mon Dec 05 15:04:06 Saved as file ~undo.max
+Mon Dec 05 15:04:09 Saved as file ~undo.max
+Mon Dec 05 15:04:17 Saved as file ~undo.max
+Mon Dec 05 15:04:20 Saved as file ~undo.max
+Mon Dec 05 15:04:24 Saved as file ~undo.max
+Mon Dec 05 15:04:27 Saved as file ~undo.max
+Mon Dec 05 15:04:29 Saved as file ~undo.max
+Mon Dec 05 15:04:32 Saved as file ~undo.max
+Mon Dec 05 15:04:36 Saved as file ~undo.max
+Mon Dec 05 15:04:38 Saved as file ~undo.max
+Mon Dec 05 15:04:40 Saved as file ~undo.max
+Mon Dec 05 15:04:48 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 06:44:20 Saved as file ~undo.max
+Tue Dec 06 06:44:24 Saved as file ~undo.max
+Tue Dec 06 06:44:27 Saved as file ~undo.max
+Tue Dec 06 06:44:32 Saved as file ~undo.max
+Tue Dec 06 06:44:35 Saved as file ~undo.max
+Tue Dec 06 06:44:39 Saved as file ~undo.max
+Tue Dec 06 06:44:41 Saved as file ~undo.max
+Tue Dec 06 06:44:46 Saved as file ~undo.max
+Tue Dec 06 06:44:49 Saved as file ~undo.max
+Tue Dec 06 06:44:51 Saved as file ~undo.max
+Tue Dec 06 06:44:55 Saved as file ~undo.max
+Tue Dec 06 06:44:57 Saved as file ~undo.max
+Tue Dec 06 06:45:01 Saved as file ~undo.max
+Tue Dec 06 06:45:03 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:03 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:04 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:05 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD_FOOTPRINT_270311.LLB
+Tue Dec 06 06:45:07 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:08 Saved as file ~undo.max
+Tue Dec 06 06:45:10 Saved as file ~undo.max
+Tue Dec 06 06:45:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:12 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:45:16 Saved as file ~undo.max
+Tue Dec 06 06:46:23 Saved as file ~undo.max
+Tue Dec 06 06:46:25 Saved as file ~undo.max
+Tue Dec 06 06:46:30 Saved as file ~undo.max
+Tue Dec 06 06:46:33 Saved as file ~undo.max
+Tue Dec 06 06:46:42 Saved as file ~undo.max
+Tue Dec 06 06:46:45 Saved as file ~undo.max
+Tue Dec 06 06:46:47 Saved as file ~undo.max
+Tue Dec 06 06:46:49 Saved as file ~undo.max
+Tue Dec 06 06:46:53 Saved as file ~undo.max
+Tue Dec 06 06:47:01 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:47:01 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:47:01 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:47:01 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:47:02 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:47:04 Saved as file ~undo.max
+Tue Dec 06 06:47:06 Saved as file ~undo.max
+Tue Dec 06 06:47:15 Saved as file ~undo.max
+Tue Dec 06 06:47:17 Saved as file ~undo.max
+Tue Dec 06 06:47:19 Saved as file ~undo.max
+Tue Dec 06 06:47:21 Saved as file ~undo.max
+Tue Dec 06 06:47:26 Saved as file ~undo.max
+Tue Dec 06 06:47:31 Saved as file ~undo.max
+Tue Dec 06 06:47:38 Saved as file ~undo.max
+Tue Dec 06 06:47:39 Saved as file ~undo.max
+Tue Dec 06 06:47:41 Saved as file ~undo.max
+Tue Dec 06 06:47:45 Saved as file ~undo.max
+Tue Dec 06 06:47:47 Saved as file ~undo.max
+Tue Dec 06 06:47:50 Saved as file ~undo.max
+Tue Dec 06 06:47:51 Saved as file ~undo.max
+Tue Dec 06 06:47:52 Saved as file ~undo.max
+Tue Dec 06 06:47:53 Saved as file ~undo.max
+Tue Dec 06 06:47:57 Saved as file ~undo.max
+Tue Dec 06 06:47:59 Saved as file ~undo.max
+Tue Dec 06 06:48:00 Saved as file ~undo.max
+Tue Dec 06 06:48:05 Saved as file ~undo.max
+Tue Dec 06 06:48:07 Saved as file ~undo.max
+Tue Dec 06 06:48:11 Saved as file ~undo.max
+Tue Dec 06 06:48:13 Saved as file ~undo.max
+Tue Dec 06 06:48:15 Saved as file ~undo.max
+Tue Dec 06 06:48:18 Saved as file ~undo.max
+Tue Dec 06 06:48:22 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:48:22 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:48:22 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:48:22 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:48:23 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Tue Dec 06 06:48:27 Saved as file ~undo.max
+Tue Dec 06 06:48:29 Saved as file ~undo.max
+Tue Dec 06 06:48:35 Saved as file ~undo.max
+Tue Dec 06 06:48:39 Saved as file ~undo.max
+Tue Dec 06 06:48:43 Saved as file ~undo.max
+Tue Dec 06 06:48:46 Saved as file ~undo.max
+Tue Dec 06 06:48:48 Saved as file ~undo.max
+Tue Dec 06 06:48:54 Saved as file ~undo.max
+Tue Dec 06 06:52:38 Saved as file ~undo.max
+Tue Dec 06 06:53:01 Saved as file ~undo.max
+Tue Dec 06 06:53:33 Saved as file ~undo.max
+Tue Dec 06 06:53:50 Saved as file ~undo.max
+Tue Dec 06 06:54:55 Saved as file BACKUP1.MAX
+Tue Dec 06 06:55:07 Saved as file ~undo.max
+Tue Dec 06 06:55:46 Saved as file ~undo.max
+Tue Dec 06 06:56:17 Saved as file ~undo.max
+Tue Dec 06 06:57:46 Saved as file ~undo.max
+Tue Dec 06 06:58:17 Saved as file ~undo.max
+Tue Dec 06 06:59:00 Saved as file ~undo.max
+Tue Dec 06 06:59:05 Saved as file ~undo.max
+Tue Dec 06 06:59:11 Saved as file ~undo.max
+Tue Dec 06 06:59:14 Saved as file ~undo.max
+Tue Dec 06 06:59:17 Saved as file ~undo.max
+Tue Dec 06 06:59:19 Saved as file ~undo.max
+Tue Dec 06 07:00:57 Saved as file ~undo.max
+Tue Dec 06 07:01:02 Saved as file ~undo.max
+Tue Dec 06 07:01:07 Saved as file ~undo.max
+Tue Dec 06 07:01:11 Saved as file ~undo.max
+Tue Dec 06 07:01:14 Saved as file ~undo.max
+Tue Dec 06 07:01:16 Saved as file ~undo.max
+Tue Dec 06 07:01:46 Saved as file ~undo.max
+Tue Dec 06 07:03:14 Saved as file ~undo.max
+Tue Dec 06 07:04:08 Saved as file ~undo.max
+Tue Dec 06 07:04:17 Saved as file ~undo.max
+Tue Dec 06 07:04:51 Saved as file ~undo.max
+Tue Dec 06 07:04:54 Saved as file ~undo.max
+Tue Dec 06 07:04:59 Saved as file ~undo.max
+Tue Dec 06 07:05:24 Saved as file ~undo.max
+Tue Dec 06 07:05:25 Saved as file BACKUP1.MAX
+Tue Dec 06 07:05:38 Saved as file ~undo.max
+Tue Dec 06 07:05:57 Saved as file ~undo.max
+Tue Dec 06 07:06:13 Saved as file ~undo.max
+Tue Dec 06 07:06:16 Saved as file ~undo.max
+Tue Dec 06 07:06:20 Saved as file ~undo.max
+Tue Dec 06 07:06:36 Saved as file ~undo.max
+Tue Dec 06 07:08:20 Saved as file ~undo.max
+Tue Dec 06 07:08:27 Saved as file ~undo.max
+Tue Dec 06 07:09:20 Saved as file ~undo.max
+Tue Dec 06 07:09:54 Saved as file ~undo.max
+Tue Dec 06 07:09:57 Saved as file ~undo.max
+Tue Dec 06 07:12:18 Saved as file ~undo.max
+Tue Dec 06 07:12:24 Saved as file ~undo.max
+Tue Dec 06 07:12:27 Saved as file ~undo.max
+Tue Dec 06 07:12:31 Saved as file ~undo.max
+Tue Dec 06 07:12:37 Saved as file ~undo.max
+Tue Dec 06 07:12:41 Saved as file ~undo.max
+Tue Dec 06 07:12:51 Saved as file ~undo.max
+Tue Dec 06 07:13:00 Saved as file ~undo.max
+Tue Dec 06 07:15:27 Saved as file ~undo.max
+Tue Dec 06 07:15:55 Saved as file BACKUP1.MAX
+Tue Dec 06 07:16:45 Saved as file ~undo.max
+Tue Dec 06 07:18:06 Saved as file ~undo.max
+Tue Dec 06 07:18:11 Saved as file ~undo.max
+Tue Dec 06 07:18:21 Saved as file ~undo.max
+Tue Dec 06 07:18:22 Saved as file ~undo.max
+Tue Dec 06 07:18:42 Saved as file ~undo.max
+Tue Dec 06 07:19:09 Saved as file ~undo.max
+Tue Dec 06 07:19:48 Saved as file ~undo.max
+Tue Dec 06 07:21:35 Saved as file ~undo.max
+Tue Dec 06 07:21:54 Saved as file ~undo.max
+Tue Dec 06 07:25:40 Saved as file ~undo.max
+Tue Dec 06 07:26:09 Saved as file ~undo.max
+Tue Dec 06 07:26:12 Saved as file ~undo.max
+Tue Dec 06 07:26:25 Saved as file BACKUP1.MAX
+Tue Dec 06 07:27:03 Saved as file ~undo.max
+Tue Dec 06 07:27:18 Saved as file ~undo.max
+Tue Dec 06 07:28:21 Saved as file ~undo.max
+Tue Dec 06 07:28:26 Saved as file ~undo.max
+Tue Dec 06 07:28:41 Saved as file ~undo.max
+Tue Dec 06 07:29:03 Saved as file ~undo.max
+Tue Dec 06 07:29:08 Saved as file ~undo.max
+Tue Dec 06 07:29:10 Saved as file ~undo.max
+Tue Dec 06 07:30:26 Saved as file ~undo.max
+Tue Dec 06 07:30:34 Saved as file ~undo.max
+Tue Dec 06 07:30:34 Saved as file ~undo.max
+Tue Dec 06 07:30:35 Saved as file ~undo.max
+Tue Dec 06 07:31:07 Saved as file ~undo.max
+Tue Dec 06 07:31:30 Saved as file ~undo.max
+Tue Dec 06 07:31:39 Saved as file ~undo.max
+Tue Dec 06 07:31:45 Saved as file ~undo.max
+Tue Dec 06 07:33:01 Saved as file ~undo.max
+Tue Dec 06 07:33:41 Saved as file ~undo.max
+Tue Dec 06 07:33:55 Saved as file ~undo.max
+Tue Dec 06 07:34:10 Saved as file ~undo.max
+Tue Dec 06 07:34:59 Saved as file ~undo.max
+Tue Dec 06 07:35:06 Saved as file ~undo.max
+Tue Dec 06 07:35:25 Saved as file ~undo.max
+Tue Dec 06 07:35:39 Saved as file ~undo.max
+Tue Dec 06 07:36:47 Saved as file ~undo.max
+Tue Dec 06 07:36:55 Saved as file ~undo.max
+Tue Dec 06 07:36:55 Saved as file BACKUP1.MAX
+Tue Dec 06 07:36:57 Saved as file ~undo.max
+Tue Dec 06 07:37:11 Saved as file ~undo.max
+Tue Dec 06 07:37:12 Saved as file ~undo.max
+Tue Dec 06 07:37:12 Saved as file ~undo.max
+Tue Dec 06 07:37:12 Saved as file ~undo.max
+Tue Dec 06 07:37:29 Saved as file ~undo.max
+Tue Dec 06 07:38:13 Saved as file ~undo.max
+Tue Dec 06 07:38:13 Saved as file ~undo.max
+Tue Dec 06 07:38:18 Saved as file ~undo.max
+Tue Dec 06 07:39:03 Saved as file ~undo.max
+Tue Dec 06 07:39:08 Saved as file ~undo.max
+Tue Dec 06 07:39:32 Saved as file ~undo.max
+Tue Dec 06 07:40:01 Saved as file ~undo.max
+Tue Dec 06 07:40:25 Saved as file ~undo.max
+Tue Dec 06 07:41:16 Saved as file ~undo.max
+Tue Dec 06 07:41:22 Saved as file ~undo.max
+Tue Dec 06 07:41:32 Saved as file ~undo.max
+Tue Dec 06 07:42:00 Saved as file ~undo.max
+Tue Dec 06 07:42:06 Saved as file ~undo.max
+Tue Dec 06 07:42:08 Saved as file ~undo.max
+Tue Dec 06 07:42:12 Saved as file ~undo.max
+Tue Dec 06 07:42:16 Saved as file ~undo.max
+Tue Dec 06 07:42:30 Saved as file ~undo.max
+Tue Dec 06 07:47:42 Saved as file ~undo.max
+Tue Dec 06 07:48:55 Saved as file BACKUP1.MAX
+Tue Dec 06 07:53:04 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:04 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:04 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:04 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:05 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:05 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:05 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:05 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:05 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:06 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:06 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:06 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:06 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:06 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:06 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:07 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:07 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:07 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:07 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:07 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:08 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:08 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:08 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:08 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:08 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:09 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Tue Dec 06 07:53:09 Saved as file F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Wed Dec 14 17:55:12 Saved as file BACKUP1.MAX
+Wed Dec 14 17:55:12 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Wed Dec 14 17:55:14 UserDiv from Layout.INI for AutoECO: 60
+Wed Dec 14 17:55:14 Loaded file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\STK200_300-1.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD_FOOTPRINT_270311.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\MACH NAP-2.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\USB STK500-3.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\ENC28J60-10.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\DO AN MH3\ATTACHMENTS_2011_10_19\THACH LAYOUT.LLB
+Wed Dec 14 17:55:14 Loaded file F:\MCR\SENSOR BOARD\HOA.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\DO AN MH3\MACH NGUYEN LI ORCAD\THUVIEN-1.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\THU VIEN CHAN\THU VIEN CHAN NEW(THAY ANH) .LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\THU VIEN CHAN\NUT NHAN.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\LAYOUT.CAOVANHUONG.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON100T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BCON156T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\BGA.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\CLCC.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON050T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DCON085T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050F.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIMM050T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIN.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100B.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DIP100T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\DSUBT_HD.LLB
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ECON100T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\FBUS.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ISA.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\JUMPER.LLB
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LAYOUT.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\LCON100T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PC104.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCI.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON100T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PCON156T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PGA.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\PLCC.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUAD.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\QUADB.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RELAY.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\RF.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SBUS.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050F.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM050T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100F.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIMM100T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SIP.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SM.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOG.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\SOJ.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\STIFF.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TELE.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_AXIAL.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CAP_P.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_CYLND.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DIODE.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_DISC.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TM_RAD.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TO.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\TRAINING.LLB
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\VRES.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\WCON100T.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\XT.llb
+Wed Dec 14 17:55:14 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\library\ZIGZAG.llb
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\STK200_300-1.LLB
+Wed Dec 14 17:55:14 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Wed Dec 14 17:55:15 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Wed Dec 14 17:55:15 Loaded file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Wed Dec 14 17:56:34 Saved as file ~undo.max
+Wed Dec 14 17:56:38 Saved as file ~undo.max
+Wed Dec 14 17:56:47 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:56:47 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:56:48 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:56:48 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:56:49 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\PAYITFORWARD.LLB
+Wed Dec 14 17:56:49 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\MACH NAP-2.LLB
+Wed Dec 14 17:56:52 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Wed Dec 14 17:56:54 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:56:56 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:57:00 Saved as file ~undo.max
+Wed Dec 14 17:57:01 Saved as file ~undo.max
+Wed Dec 14 17:57:03 Saved as file ~undo.max
+Wed Dec 14 17:57:04 Saved as file ~undo.max
+Wed Dec 14 17:57:08 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:57:08 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:57:08 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:57:08 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:57:12 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\MACH NAP-2.LLB
+Wed Dec 14 17:57:13 Loaded file F:\DIEN TU\MR HAI\ORCARD\THU VIEN\HAI\LIBRARY.LLB
+Wed Dec 14 17:57:16 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 17:57:18 Saved as file ~undo.max
+Wed Dec 14 17:57:21 Saved as file ~undo.max
+Wed Dec 14 17:57:23 Saved as file ~undo.max
+Wed Dec 14 17:57:26 Saved as file ~undo.max
+Wed Dec 14 17:57:29 Saved as file ~undo.max
+Wed Dec 14 17:57:36 Saved as file ~undo.max
+Wed Dec 14 17:57:38 Saved as file ~undo.max
+Wed Dec 14 17:57:43 Saved as file ~undo.max
+Wed Dec 14 17:57:48 Saved as file ~undo.max
+Wed Dec 14 17:59:25 Saved as file ~undo.max
+Wed Dec 14 18:00:54 Saved as file ~undo.max
+Wed Dec 14 18:01:38 Saved as file ~undo.max
+Wed Dec 14 18:03:51 Saved as file ~undo.max
+Wed Dec 14 18:04:02 Saved as file ~undo.max
+Wed Dec 14 18:04:43 Saved as file ~undo.max
+Wed Dec 14 18:04:44 Saved as file ~undo.max
+Wed Dec 14 18:04:53 Saved as file ~undo.max
+Wed Dec 14 18:04:57 Saved as file ~undo.max
+Wed Dec 14 18:05:02 Saved as file ~undo.max
+Wed Dec 14 18:05:12 Saved as file ~undo.max
+Wed Dec 14 18:06:01 Saved as file ~undo.max
+Wed Dec 14 18:06:24 Saved as file ~undo.max
+Wed Dec 14 18:06:41 Saved as file ~undo.max
+Wed Dec 14 18:06:44 Saved as file ~undo.max
+Wed Dec 14 18:06:47 Saved as file ~undo.max
+Wed Dec 14 18:06:47 Saved as file BACKUP1.MAX
+Wed Dec 14 18:06:49 Saved as file ~undo.max
+Wed Dec 14 18:07:01 Saved as file ~undo.max
+Wed Dec 14 18:07:03 Saved as file ~undo.max
+Wed Dec 14 18:07:06 Saved as file ~undo.max
+Wed Dec 14 18:07:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:09 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:10 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:14 Saved as file ~undo.max
+Wed Dec 14 18:07:16 Saved as file ~undo.max
+Wed Dec 14 18:07:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:21 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:22 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:07:25 Saved as file ~undo.max
+Wed Dec 14 18:09:06 Saved as file ~undo.max
+Wed Dec 14 18:17:17 Saved as file BACKUP1.MAX
+Wed Dec 14 18:21:58 Saved as file ~undo.max
+Wed Dec 14 18:27:40 Saved as file ~undo.max
+Wed Dec 14 18:27:47 Saved as file BACKUP1.MAX
+Wed Dec 14 18:29:54 Saved as file ~undo.max
+Wed Dec 14 18:30:00 Saved as file ~undo.max
+Wed Dec 14 18:34:41 Saved as file ~undo.max
+Wed Dec 14 18:36:54 Saved as file ~undo.max
+Wed Dec 14 18:36:57 Saved as file ~undo.max
+Wed Dec 14 18:37:01 Saved as file ~undo.max
+Wed Dec 14 18:37:04 Saved as file ~undo.max
+Wed Dec 14 18:38:17 Saved as file BACKUP1.MAX
+Wed Dec 14 18:39:02 Saved as file ~undo.max
+Wed Dec 14 18:39:07 Saved as file ~undo.max
+Wed Dec 14 18:39:34 Saved as file ~undo.max
+Wed Dec 14 18:42:42 Saved as file ~undo.max
+Wed Dec 14 18:43:33 Saved as file ~undo.max
+Wed Dec 14 18:43:34 Saved as file ~undo.max
+Wed Dec 14 18:44:20 Saved as file ~undo.max
+Wed Dec 14 18:47:06 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:47:06 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:47:06 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:47:06 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:47:07 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Wed Dec 14 18:47:19 Saved as file ~undo.max
+Wed Dec 14 18:48:16 Saved as file ~undo.max
+Wed Dec 14 18:48:47 Saved as file BACKUP1.MAX
+Wed Dec 14 18:52:03 Saved as file ~undo.max
+Wed Dec 14 18:52:05 Saved as file ~undo.max
+Wed Dec 14 18:53:30 Error code 5255.048 (1884)
+Wed Dec 14 18:53:31 Saved as file Backup0.max
+Wed Dec 14 18:53:31 Windows which were open at time of error:
+Wed Dec 14 18:53:31 	ActiveWindow: &Design
+Wed Dec 14 18:53:31 	Icon: &Components
+Wed Dec 14 18:53:31 	Icon: Post Proces&s
+Wed Dec 14 18:53:31 	Icon: &Nets
+Wed Dec 14 18:53:31 End-of-list
+Wed Dec 14 18:53:31 Loaded file BACKUP0.MAX
+Wed Dec 14 18:53:33 Saved as file ~undo.max
+Wed Dec 14 18:54:43 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Dec 14 18:54:43 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Dec 14 18:54:43 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Dec 14 18:54:43 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Dec 14 18:54:45 Loaded file C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\data\template.imp
+Wed Dec 14 18:54:55 Saved as file ~undo.max
+Wed Dec 14 18:56:22 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:43:07 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:43:20 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:45:10 Merge file: Starting (copy all comps)
+Mon Dec 19 14:45:10 Merge file: Loading merge file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:45:10 Merge file: Component C3 copied and added
+Mon Dec 19 14:45:10 Merge file: Component C5 copied and renamed to C5000
+Mon Dec 19 14:45:10 Merge file: Component D2 copied and renamed to D2000
+Mon Dec 19 14:45:10 Merge file: Component D3 copied and added
+Mon Dec 19 14:45:10 Merge file: Component D4 copied and added
+Mon Dec 19 14:45:10 Merge file: Component D5 copied and added
+Mon Dec 19 14:45:10 Merge file: Component D6 copied and added
+Mon Dec 19 14:45:10 Merge file: Component D7 copied and added
+Mon Dec 19 14:45:10 Merge file: Component D8 copied and added
+Mon Dec 19 14:45:10 Merge file: Component D9 copied and added
+Mon Dec 19 14:45:10 Merge file: Component DIR_LED_L1 copied and added
+Mon Dec 19 14:45:10 Merge file: Component DIR_LED_R1 copied and added
+Mon Dec 19 14:45:10 Merge file: Component J1 copied and renamed to J1000
+Mon Dec 19 14:45:10 Merge file: Component J24 copied and renamed to J24000
+Mon Dec 19 14:45:10 Merge file: Component J25 copied and added
+Mon Dec 19 14:45:10 Merge file: Component LEFT_MOTOR1 copied and added
+Mon Dec 19 14:45:10 Merge file: Component POWER_LED1 copied and added
+Mon Dec 19 14:45:10 Merge file: Component Q1 copied and added
+Mon Dec 19 14:45:10 Merge file: Component Q2 copied and added
+Mon Dec 19 14:45:10 Merge file: Component R3 copied and added
+Mon Dec 19 14:45:10 Merge file: Component R9 copied and added
+Mon Dec 19 14:45:10 Merge file: Component R11 copied and added
+Mon Dec 19 14:45:10 Merge file: Component R12 copied and added
+Mon Dec 19 14:45:10 Merge file: Component R13 copied and added
+Mon Dec 19 14:45:10 Merge file: Component R14 copied and added
+Mon Dec 19 14:45:10 Merge file: Component R15 copied and added
+Mon Dec 19 14:45:10 Merge file: Component RIGHT_MOTOR1 copied and added
+Mon Dec 19 14:45:10 Merge file: Component U2 copied and renamed to U2000
+Mon Dec 19 14:45:10 Merge file: Component ~FV1 copied and renamed to ~FV1000
+Mon Dec 19 14:45:10 Merge file: Component ~FV2 copied and renamed to ~FV2000
+Mon Dec 19 14:45:10 Merge file: Net 5V copied and added
+Mon Dec 19 14:45:10 Merge file: Net DIR1A copied and added
+Mon Dec 19 14:45:10 Merge file: Net DIR1B copied and added
+Mon Dec 19 14:45:10 Merge file: Net DIR2A copied and added
+Mon Dec 19 14:45:10 Merge file: Net DIR2B copied and added
+Mon Dec 19 14:45:10 Merge file: Net GND merged into existing net
+Mon Dec 19 14:45:10 Merge file: Net LEFT MOTOR_1 copied and added
+Mon Dec 19 14:45:10 Merge file: Net LEFT MOTOR_2 copied and added
+Mon Dec 19 14:45:10 Merge file: Net N4526932 copied and added
+Mon Dec 19 14:45:10 Merge file: Net N4526952 copied and added
+Mon Dec 19 14:45:10 Merge file: Net N45266880 copied and added
+Mon Dec 19 14:45:10 Merge file: Net N45310050 copied and added
+Mon Dec 19 14:45:10 Merge file: Net N45311260 copied and added
+Mon Dec 19 14:45:10 Merge file: Net PWM_L copied and added
+Mon Dec 19 14:45:10 Merge file: Net PWM_R copied and added
+Mon Dec 19 14:45:10 Merge file: Net RIGHT MOTOR_1 copied and added
+Mon Dec 19 14:45:10 Merge file: Net RIGHT MOTOR_2 copied and added
+Mon Dec 19 14:45:10 Merge file: Net VS copied and added
+Mon Dec 19 14:45:10 Loaded file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:45:10 Merge file: Complete
+Mon Dec 19 14:45:58 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:46:38 Merge file: Starting (copy all comps)
+Mon Dec 19 14:46:38 Merge file: Loading merge file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:46:38 Merge file: Component C3 copied and added
+Mon Dec 19 14:46:38 Merge file: Component C5 copied and renamed to C5000
+Mon Dec 19 14:46:38 Merge file: Component D2 copied and renamed to D2000
+Mon Dec 19 14:46:38 Merge file: Component D3 copied and added
+Mon Dec 19 14:46:38 Merge file: Component D4 copied and added
+Mon Dec 19 14:46:38 Merge file: Component D5 copied and added
+Mon Dec 19 14:46:38 Merge file: Component D6 copied and added
+Mon Dec 19 14:46:38 Merge file: Component D7 copied and added
+Mon Dec 19 14:46:38 Merge file: Component D8 copied and added
+Mon Dec 19 14:46:38 Merge file: Component D9 copied and added
+Mon Dec 19 14:46:38 Merge file: Component DIR_LED_L1 copied and added
+Mon Dec 19 14:46:38 Merge file: Component DIR_LED_R1 copied and added
+Mon Dec 19 14:46:38 Merge file: Component J1 copied and renamed to J1000
+Mon Dec 19 14:46:38 Merge file: Component J24 copied and renamed to J24000
+Mon Dec 19 14:46:38 Merge file: Component J25 copied and added
+Mon Dec 19 14:46:38 Merge file: Component LEFT_MOTOR1 copied and added
+Mon Dec 19 14:46:38 Merge file: Component POWER_LED1 copied and added
+Mon Dec 19 14:46:38 Merge file: Component Q1 copied and added
+Mon Dec 19 14:46:38 Merge file: Component Q2 copied and added
+Mon Dec 19 14:46:38 Merge file: Component R3 copied and added
+Mon Dec 19 14:46:38 Merge file: Component R9 copied and added
+Mon Dec 19 14:46:38 Merge file: Component R11 copied and added
+Mon Dec 19 14:46:38 Merge file: Component R12 copied and added
+Mon Dec 19 14:46:38 Merge file: Component R13 copied and added
+Mon Dec 19 14:46:38 Merge file: Component R14 copied and added
+Mon Dec 19 14:46:38 Merge file: Component R15 copied and added
+Mon Dec 19 14:46:38 Merge file: Component RIGHT_MOTOR1 copied and added
+Mon Dec 19 14:46:38 Merge file: Component U2 copied and renamed to U2000
+Mon Dec 19 14:46:38 Merge file: Component ~FV1 copied and renamed to ~FV1000
+Mon Dec 19 14:46:38 Merge file: Component ~FV2 copied and renamed to ~FV2000
+Mon Dec 19 14:46:38 Merge file: Net 5V copied and added
+Mon Dec 19 14:46:38 Merge file: Net DIR1A copied and added
+Mon Dec 19 14:46:38 Merge file: Net DIR1B copied and added
+Mon Dec 19 14:46:38 Merge file: Net DIR2A copied and added
+Mon Dec 19 14:46:38 Merge file: Net DIR2B copied and added
+Mon Dec 19 14:46:38 Merge file: Net GND merged into existing net
+Mon Dec 19 14:46:38 Merge file: Net LEFT MOTOR_1 copied and added
+Mon Dec 19 14:46:38 Merge file: Net LEFT MOTOR_2 copied and added
+Mon Dec 19 14:46:38 Merge file: Net N4526932 copied and added
+Mon Dec 19 14:46:38 Merge file: Net N4526952 copied and added
+Mon Dec 19 14:46:38 Merge file: Net N45266880 copied and added
+Mon Dec 19 14:46:38 Merge file: Net N45310050 copied and added
+Mon Dec 19 14:46:38 Merge file: Net N45311260 copied and added
+Mon Dec 19 14:46:38 Merge file: Net PWM_L copied and added
+Mon Dec 19 14:46:38 Merge file: Net PWM_R copied and added
+Mon Dec 19 14:46:38 Merge file: Net RIGHT MOTOR_1 copied and added
+Mon Dec 19 14:46:38 Merge file: Net RIGHT MOTOR_2 copied and added
+Mon Dec 19 14:46:38 Merge file: Net VS copied and added
+Mon Dec 19 14:46:38 Loaded file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:46:38 Merge file: Complete
+Mon Dec 19 14:48:25 Merge file: Starting (copy all comps)
+Mon Dec 19 14:48:25 Merge file: Loading merge file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:48:25 Merge file: Component C3 copied and added
+Mon Dec 19 14:48:25 Merge file: Component C5 copied and renamed to C5000
+Mon Dec 19 14:48:25 Merge file: Component D2 copied and renamed to D2000
+Mon Dec 19 14:48:25 Merge file: Component D3 copied and added
+Mon Dec 19 14:48:25 Merge file: Component D4 copied and added
+Mon Dec 19 14:48:25 Merge file: Component D5 copied and added
+Mon Dec 19 14:48:25 Merge file: Component D6 copied and added
+Mon Dec 19 14:48:25 Merge file: Component D7 copied and added
+Mon Dec 19 14:48:25 Merge file: Component D8 copied and added
+Mon Dec 19 14:48:25 Merge file: Component D9 copied and added
+Mon Dec 19 14:48:25 Merge file: Component DIR_LED_L1 copied and added
+Mon Dec 19 14:48:25 Merge file: Component DIR_LED_R1 copied and added
+Mon Dec 19 14:48:25 Merge file: Component J1 copied and renamed to J1000
+Mon Dec 19 14:48:25 Merge file: Component J24 copied and renamed to J24000
+Mon Dec 19 14:48:25 Merge file: Component J25 copied and added
+Mon Dec 19 14:48:25 Merge file: Component LEFT_MOTOR1 copied and added
+Mon Dec 19 14:48:25 Merge file: Component POWER_LED1 copied and added
+Mon Dec 19 14:48:25 Merge file: Component Q1 copied and added
+Mon Dec 19 14:48:25 Merge file: Component Q2 copied and added
+Mon Dec 19 14:48:25 Merge file: Component R3 copied and added
+Mon Dec 19 14:48:25 Merge file: Component R9 copied and added
+Mon Dec 19 14:48:25 Merge file: Component R11 copied and added
+Mon Dec 19 14:48:25 Merge file: Component R12 copied and added
+Mon Dec 19 14:48:25 Merge file: Component R13 copied and added
+Mon Dec 19 14:48:25 Merge file: Component R14 copied and added
+Mon Dec 19 14:48:25 Merge file: Component R15 copied and added
+Mon Dec 19 14:48:25 Merge file: Component RIGHT_MOTOR1 copied and added
+Mon Dec 19 14:48:25 Merge file: Component U2 copied and renamed to U2000
+Mon Dec 19 14:48:25 Merge file: Component ~FV1 copied and renamed to ~FV1000
+Mon Dec 19 14:48:25 Merge file: Component ~FV2 copied and renamed to ~FV2000
+Mon Dec 19 14:48:25 Merge file: Net 5V copied and added
+Mon Dec 19 14:48:25 Merge file: Net DIR1A copied and added
+Mon Dec 19 14:48:25 Merge file: Net DIR1B copied and added
+Mon Dec 19 14:48:25 Merge file: Net DIR2A copied and added
+Mon Dec 19 14:48:25 Merge file: Net DIR2B copied and added
+Mon Dec 19 14:48:25 Merge file: Net GND merged into existing net
+Mon Dec 19 14:48:25 Merge file: Net LEFT MOTOR_1 copied and added
+Mon Dec 19 14:48:25 Merge file: Net LEFT MOTOR_2 copied and added
+Mon Dec 19 14:48:25 Merge file: Net N4526932 copied and added
+Mon Dec 19 14:48:25 Merge file: Net N4526952 copied and added
+Mon Dec 19 14:48:25 Merge file: Net N45266880 copied and added
+Mon Dec 19 14:48:25 Merge file: Net N45310050 copied and added
+Mon Dec 19 14:48:25 Merge file: Net N45311260 copied and added
+Mon Dec 19 14:48:25 Merge file: Net PWM_L copied and added
+Mon Dec 19 14:48:25 Merge file: Net PWM_R copied and added
+Mon Dec 19 14:48:25 Merge file: Net RIGHT MOTOR_1 copied and added
+Mon Dec 19 14:48:25 Merge file: Net RIGHT MOTOR_2 copied and added
+Mon Dec 19 14:48:25 Merge file: Net VS copied and added
+Mon Dec 19 14:48:25 Loaded file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 14:48:25 Merge file: Complete
+Mon Dec 19 19:18:39 Loaded file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:18:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:18:52 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:18:53 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:18:53 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:18:55 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:19:08 Saved as file ~undo.max
+Mon Dec 19 19:19:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:19:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:19:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:19:18 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:19:19 Loaded file C:\OrCAD\OrCAD_10.5\tools\Layout_Plus\data\template.imp
+Mon Dec 19 19:19:25 Saved as file ~undo.max
+Mon Dec 19 19:20:10 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:10 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:11 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:11 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:11 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:12 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:12 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:13 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:13 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:14 Saved as file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:55 Merge file: Starting (copy all comps)
+Mon Dec 19 19:20:55 Merge file: Loading merge file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:55 Merge file: Component C3 copied and added
+Mon Dec 19 19:20:55 Merge file: Component C5 copied and renamed to C5000
+Mon Dec 19 19:20:55 Merge file: Component D2 copied and renamed to D2000
+Mon Dec 19 19:20:55 Merge file: Component D3 copied and added
+Mon Dec 19 19:20:55 Merge file: Component D4 copied and added
+Mon Dec 19 19:20:55 Merge file: Component D5 copied and added
+Mon Dec 19 19:20:55 Merge file: Component D6 copied and added
+Mon Dec 19 19:20:55 Merge file: Component D7 copied and added
+Mon Dec 19 19:20:55 Merge file: Component D8 copied and added
+Mon Dec 19 19:20:55 Merge file: Component D9 copied and added
+Mon Dec 19 19:20:55 Merge file: Component DIR_LED_L1 copied and added
+Mon Dec 19 19:20:55 Merge file: Component DIR_LED_R1 copied and added
+Mon Dec 19 19:20:55 Merge file: Component J1 copied and renamed to J1000
+Mon Dec 19 19:20:55 Merge file: Component J24 copied and renamed to J24000
+Mon Dec 19 19:20:55 Merge file: Component J25 copied and added
+Mon Dec 19 19:20:55 Merge file: Component LEFT_MOTOR1 copied and added
+Mon Dec 19 19:20:55 Merge file: Component POWER_LED1 copied and added
+Mon Dec 19 19:20:55 Merge file: Component Q1 copied and added
+Mon Dec 19 19:20:55 Merge file: Component Q2 copied and added
+Mon Dec 19 19:20:55 Merge file: Component R3 copied and added
+Mon Dec 19 19:20:55 Merge file: Component R9 copied and added
+Mon Dec 19 19:20:55 Merge file: Component R11 copied and added
+Mon Dec 19 19:20:55 Merge file: Component R12 copied and added
+Mon Dec 19 19:20:55 Merge file: Component R13 copied and added
+Mon Dec 19 19:20:55 Merge file: Component R14 copied and added
+Mon Dec 19 19:20:55 Merge file: Component R15 copied and added
+Mon Dec 19 19:20:55 Merge file: Component RIGHT_MOTOR1 copied and added
+Mon Dec 19 19:20:55 Merge file: Component U2 copied and renamed to U2000
+Mon Dec 19 19:20:55 Merge file: Component ~FV1 copied and renamed to ~FV1000
+Mon Dec 19 19:20:55 Merge file: Component ~FV2 copied and renamed to ~FV2000
+Mon Dec 19 19:20:55 Merge file: Net 5V merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net DIR1A merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net DIR1B merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net DIR2A merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net DIR2B merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net GND merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net LEFT MOTOR_1 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net LEFT MOTOR_2 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net N4526932 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net N4526952 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net N45266880 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net N45310050 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net N45311260 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net PWM_L merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net PWM_R merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net RIGHT MOTOR_1 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net RIGHT MOTOR_2 merged into existing net
+Mon Dec 19 19:20:55 Merge file: Net VS merged into existing net
+Mon Dec 19 19:20:55 Loaded file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Mon Dec 19 19:20:55 Merge file: Complete
+Tue Dec 20 11:05:06 Saved as file BACKUP1.MAX
+Tue Dec 20 11:15:36 Saved as file BACKUP1.MAX
+Tue Dec 20 11:26:06 Saved as file BACKUP1.MAX
+Tue Dec 20 11:36:36 Saved as file BACKUP1.MAX

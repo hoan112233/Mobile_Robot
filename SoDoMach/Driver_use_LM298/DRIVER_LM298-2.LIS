@@ -1,0 +1,59 @@
+AutoECO Report
+FILE-A: C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-1.MAX
+FILE-B: C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package NPN_BCE_0
+Adding package CON6
+Adding package CON4
+Adding component J25
+Found library footprint with same name as part CON6
+Adding component J24
+Found footprint BUS_4 from PRT file for part CON4, comp J24
+Deleting LED2.1 from net 5V
+Deleting LED1.1 from net 5V
+Deleting TERMINAL CONTROLL1.1 from net 5V
+Deleting R10.1 from net 5V
+Adding J25.1 to net 5V
+Adding J24.1 to net 5V
+Deleting TERMINAL CONTROLL1.7 from net DIR1A
+Adding J24.3 to net DIR1A
+Adding J25.3 to net DIR1A
+Deleting TERMINAL CONTROLL1.6 from net DIR2A
+Adding J25.5 to net DIR2A
+Deleting SW1.2 from net GND
+Deleting TERMINAL CONTROLL1.10 from net GND
+Deleting Q1.3 from net GND
+Deleting J1.3 from net GND
+Deleting SERVO1.3 from net GND
+Deleting Q2.3 from net GND
+Adding J25.6 to net GND
+Adding J24.4 to net GND
+Adding J1.2 to net GND
+Adding Q1.1 to net GND
+Adding Q2.1 to net GND
+Deleting Q1.1 from net N45310050
+Adding Q1.3 to net N45310050
+Deleting Q2.1 from net N45311260
+Adding Q2.3 to net N45311260
+Deleting TERMINAL CONTROLL1.8 from net PWM_L
+Adding J25.2 to net PWM_L
+Adding J24.2 to net PWM_L
+Deleting TERMINAL CONTROLL1.5 from net PWM_R
+Adding J25.4 to net PWM_R
+Deleting component TERMINAL CONTROLL1
+Deleting component SW1
+Deleting component SERVO1
+Deleting component R10
+Deleting component R2
+Deleting component R1
+Deleting component LED2
+Deleting component LED1
+Deleting net VS_6V
+Deleting net SERVO
+Deleting net N4526832
+Deleting net N4526772
+Deleting net LED2
+Deleting net LED1
+Deleting net BUTTON
+*EOF*
+No errors found

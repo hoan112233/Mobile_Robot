@@ -1,0 +1,89 @@
+AutoECO Report
+FILE-A: C:\ORCAD\ORCAD_10.5\TOOLS\LAYOUT_PLUS\DATA\JUMP6238.TCH
+FILE-B: F:\DIEN TU\PROJECT\DRIVER_USE_LM298\DRIVER_LM298.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package LED
+Adding package R
+Adding package C
+Adding package CON8_0
+Adding package HEADER_5X2
+Adding package DIODE
+Adding package CON2
+Adding package CON3
+Adding package NPN_BCE
+Adding package SW_PUSHBUTTON
+Adding package L298/MULTIH_1
+Adding package CAPACITOR_NON-POL
+Adding component POWER_LED1
+Found library footprint with same name as part LED
+Adding component R15
+Found library footprint with same name as part R
+Adding component C5
+Found footprint C_0.1UF, 1UF, 10UF from PRT file for part C, comp C5
+Adding component SERVO1
+Found footprint HEAD3 from PRT file for part CON8_0, comp SERVO1
+Adding component TERMINAL CONTROLL1
+Found footprint HEADER 5X2 from PRT file for part HEADER_5X2, comp TERMINAL CONTROLL1
+Adding component D4
+Found library footprint with same name as part DIODE
+Adding component LEFT_MOTOR1
+Found library footprint with same name as part CON2
+Adding component J1
+Found library footprint with same name as part CON3
+Adding component Q2
+Adding component D5
+Adding component R12
+Adding component RIGHT_MOTOR1
+Adding component DIR_LED_L1
+Adding component D8
+Adding component DIR_LED_R1
+Adding component D9
+Adding component R14
+Adding component SW1
+Found footprint BUTTON 2PIN from PRT file for part SW_PUSHBUTTON, comp SW1
+Adding component U2
+Found footprint LM298 from PRT file for part L298/MULTIH_1, comp U2
+Adding component C3
+Found footprint CAPACITOR (PICOPARA) TH from PRT file for part CAPACITOR_NON-POL, comp C3
+Adding component D2
+Adding component LED1
+Adding component D6
+Adding component LED2
+Adding component D3
+Adding component R1
+Adding component D7
+Adding component R2
+Adding component R11
+Adding component Q1
+Adding component R10
+Adding component R9
+Adding component R3
+Adding component R13
+Adding net 5V
+Adding net VS_6V
+Adding net GND
+Adding net VS
+Adding net PWM_R
+Adding net SERVO
+Adding net N4526832
+Adding net BUTTON
+Adding net LED1
+Adding net PWM_L
+Adding net RIGHT MOTOR_1
+Adding net N4526952
+Adding net LEFT MOTOR_1
+Adding net LED2
+Adding net N4526932
+Adding net LEFT MOTOR_2
+Adding net N4526772
+Adding net RIGHT MOTOR_2
+Adding net N45266880
+Adding net DIR1A
+Adding net DIR1B
+Adding net DIR2B
+Adding net DIR2A
+Adding net N45310050
+Adding net N45311260
+Deleting net DEFAULT
+*EOF*
+No errors found

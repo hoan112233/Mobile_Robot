@@ -1,0 +1,51 @@
+Starting (copy all comps)
+Loading merge file C:\DOCUMENTS AND SETTINGS\MRHAI\DESKTOP\DO AN 2_NHLAM\DRIVER_USE_LM298\DRIVER_LM298-2.MAX
+Component C3 copied and added
+Component C5 copied and renamed to C5000
+Component D2 copied and renamed to D2000
+Component D3 copied and added
+Component D4 copied and added
+Component D5 copied and added
+Component D6 copied and added
+Component D7 copied and added
+Component D8 copied and added
+Component D9 copied and added
+Component DIR_LED_L1 copied and added
+Component DIR_LED_R1 copied and added
+Component J1 copied and renamed to J1000
+Component J24 copied and renamed to J24000
+Component J25 copied and added
+Component LEFT_MOTOR1 copied and added
+Component POWER_LED1 copied and added
+Component Q1 copied and added
+Component Q2 copied and added
+Component R3 copied and added
+Component R9 copied and added
+Component R11 copied and added
+Component R12 copied and added
+Component R13 copied and added
+Component R14 copied and added
+Component R15 copied and added
+Component RIGHT_MOTOR1 copied and added
+Component U2 copied and renamed to U2000
+Component ~FV1 copied and renamed to ~FV1000
+Component ~FV2 copied and renamed to ~FV2000
+Net 5V merged into existing net
+Net DIR1A merged into existing net
+Net DIR1B merged into existing net
+Net DIR2A merged into existing net
+Net DIR2B merged into existing net
+Net GND merged into existing net
+Net LEFT MOTOR_1 merged into existing net
+Net LEFT MOTOR_2 merged into existing net
+Net N4526932 merged into existing net
+Net N4526952 merged into existing net
+Net N45266880 merged into existing net
+Net N45310050 merged into existing net
+Net N45311260 merged into existing net
+Net PWM_L merged into existing net
+Net PWM_R merged into existing net
+Net RIGHT MOTOR_1 merged into existing net
+Net RIGHT MOTOR_2 merged into existing net
+Net VS merged into existing net
+Complete
